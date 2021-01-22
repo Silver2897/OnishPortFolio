@@ -771,7 +771,12 @@ textarea.form-control {
 .contact-row i.fa-envelope {
   font-size: 25px;
 }
-
+.resume-height {
+  width:55px;
+  font-size: 30px;
+  background-color: transparent;
+ 
+}
 /*==============================================
 09. TESTIMONOALS BLOCK CSS
 ================================================*/
